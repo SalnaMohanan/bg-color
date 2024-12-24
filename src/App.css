@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-weight: 900;
+}
+
+.btn-Conatainer {
+    margin-top: 55px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.btn {
+    margin: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.btn1:hover {
+    background-color: rgb(247, 172, 10);
+}
+
+.btn2:hover {
+    background-color: blue;
+}
+
+.btn3:hover {
+    background-color: #00FF00;
+}
+
+.btn4:hover {
+    background-color: red;
+}
+
+.btn5:hover {
+    background-color: yellow;
+}
